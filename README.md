@@ -38,80 +38,39 @@
 
 ## 🚀 Featured Projects
 
-### 🏋️ Fitraker
-
-**Full-stack MERN gym & nutrition tracker**
+### 🏋️ [Fitraker](https://github.com/DevNaolAyana/fitraker)
+**Gym & nutrition tracking platform**
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `PWA`
 
-- Food and macro tracking
-- Exercise library and muscle visualization
-- Statistics and progress tracking
-- Authentication and protected routes
-- Ethiopian/Gregorian calendar support
-- PWA support
-- Deployed using Vercel, Render and MongoDB Atlas
-- Iterative development with versioning and Git workflows
-
-🔗 **Repository:** [github.com/DevNaolAyana/fitraker](https://github.com/DevNaolAyana/fitraker)
+Tracks nutrition, workouts, fitness progress and personal statistics.
 
 ---
 
 ### 🧸 Sosi Kids
+**Retail management PWA built for a real local business**
 
-**Full-stack PWA built for a real local retail business**
+`React` `Tailwind CSS` `Supabase` `PostgreSQL` `Deno`
 
-`React` `JavaScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Deno`
-
-- Inventory and sales ledger
-- Customer credit/debt tracking
-- Public product catalogue
-- Automated sales and profit reports through Telegram
-- Role-based access control
-- English, Amharic and Afaan Oromo support
-- Dark/light mode
-- Installable PWA
-- Cloud image handling with Cloudinary
-
-A practical project focused on solving an actual business problem rather than simply following a tutorial.
+Inventory, sales, customer credit tracking and a public product catalogue.
 
 ---
 
 ### 🏛️ Becho Bore PRMS
-
 **Academic Public Records Management System**
 
 `React` `Node.js` `Express` `MongoDB`
 
-- Role-based civil records management
-- Authentication and authorization
-- Database optimization
-- Performance debugging
-- Cloud deployment
-- MongoDB indexing and query optimization
-- Email integration
-- Cloudinary file storage
-
-A major learning experience in debugging a real full-stack application and investigating backend performance problems.
+Role-based records management with authentication, database management and performance optimization.
 
 ---
 
 ### 📅 Productivity Calendar
-
-**Full-stack productivity and task management application**
+**Personal productivity and task management app**
 
 `JavaScript` `Node.js` `Express` `MongoDB` `PWA`
 
-- Daily, weekly and monthly views
-- Task and todo management
-- Recurring reminders
-- Study streaks and analytics
-- Activity heatmap
-- Responsive UI
-- Dark/light mode
-- REST API and authentication
-- Installable PWA
-- MongoDB Atlas + Render deployment
+Calendar views, task management, recurring reminders and productivity analytics.
 
 ---
 
@@ -167,51 +126,25 @@ A major learning experience in debugging a real full-stack application and inves
 
 ## 🤖 AI & Machine Learning
 
-I've been building my understanding of AI/ML through coursework, experiments and projects.
+Exploring machine learning, deep learning and the AI development lifecycle through coursework and projects.
 
-- Classical Machine Learning
-- Linear & Logistic Regression
-- Decision Trees
-- Random Forests
-- XGBoost
-- Data cleaning and EDA
-- Feature engineering
-- Pandas & NumPy
-- TensorFlow / Keras
-- CNNs
-- LSTMs
-- NLP
-- Model evaluation
-- MLflow
-- FastAPI
-- Docker
-- Streamlit
+`Scikit-learn` `XGBoost` `Pandas` `NumPy` `TensorFlow` `Keras` `MLflow` `FastAPI` `Docker` `Streamlit`
 
-### 🧪 Current AI Learning
-
-Currently continuing to explore the complete AI development lifecycle, from data preparation and model development to deployment and monitoring.
+**Areas of interest:** Regression, classification, tree-based models, CNNs, LSTMs, NLP, data preparation and model evaluation.
 
 ---
 
 ## 📱 Android Development
 
-Learning Android development with:
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin" />
 </p>
 
-I've practiced:
+Learning Android development with Java and Kotlin, focusing on:
 
-- Android project structure
-- Activities
-- XML layouts
-- Resources and `strings.xml`
-- Android Studio
-- Emulators / AVDs
-- Java and Kotlin fundamentals
-- Debugging Gradle issues
-
+- Android project structure and Activities
+- XML layouts and resources
+- Emulators (AVD) and Gradle debugging
 ---
 
 ## 🎓 Certifications & Learning
