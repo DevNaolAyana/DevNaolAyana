@@ -14,6 +14,9 @@
   <a href="https://github.com/DevNaolAyana">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://discord.com/users/">
+    <img src="https://img.shields.io/badge/Discord-dev__naol-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
 
 </div>
@@ -244,8 +247,11 @@ The goal is simple:
 <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://discord.com/users/">
+<img src="https://img.shields.io/badge/Discord-dev__naol-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
+</div>
 ---
 
 <div align="center">
